@@ -5,6 +5,6 @@
 <?import javafx.scene.control.Label?>
 <VBox xmlns:fx="http://javafx.com/fxml/1">
 	<!-- TODO Add Nodes -->
-	<Label>Hello Mariam And Mariah</Label>
+	<Label>Hello Mariam And Mariah - mariah branch</Label>
 </VBox>
 
